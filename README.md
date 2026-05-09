@@ -1,5 +1,4 @@
-[hon-uranai.html](https://github.com/user-attachments/files/27546083/hon-uranai.html)
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
